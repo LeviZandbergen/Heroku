@@ -1,5 +1,5 @@
 <?php
 echo "
-kiwi banaan";
+kiwi banaan garnaal";
 
 ?>
